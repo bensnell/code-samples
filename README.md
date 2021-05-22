@@ -1,5 +1,7 @@
 # Samples of Software Development
 
+***This list is outdated. For a new list, please contact me directly.***
+
 ### C++, using [OpenFrameworks](https://openframeworks.cc)
 - [Intelligent Drawing Algorithm](https://github.com/bensnell/ofxAlgo/tree/master/src) - Private (please contact for access) [10000 lines]
 - [Recording](https://github.com/bensnell/urg_recording_and_display_2/tree/master/urg_record/src) and [Displaying](https://github.com/bensnell/urg_recording_and_display_2/tree/master/urg_display/src) LIDAR Captures [700 lines]
